@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of Sir Philomy Oneale Knight, generall of the rebels in Jreland, and of the lords, nobility and commanders of the army of the Catholiques in that kingdome. Presented to the Right Honourable, the Lords and Commons now assembled in the High Court of Parliament in England.</title>
+            <author>O'Neill, Phelim, Sir, 1604?-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90155</idno>
+            <idno type="STC">Wing O342</idno>
+            <idno type="STC">Thomason E137_14</idno>
+            <idno type="STC">ESTC R10123</idno>
+            <idno type="EEBO-CITATION">99858798</idno>
+            <idno type="PROQUEST">99858798</idno>
+            <idno type="VID">156498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156498)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of Sir Philomy Oneale Knight, generall of the rebels in Jreland, and of the lords, nobility and commanders of the army of the Catholiques in that kingdome. Presented to the Right Honourable, the Lords and Commons now assembled in the High Court of Parliament in England.</title>
+                  <author>O'Neill, Phelim, Sir, 1604?-1653.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156498:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:156498:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>THE PETITION Of Sir <hi>Philomy Oneale</hi> Knight, Generall of the Rebels, in <hi>Jreland,</hi> and of the Lords, Nobility and Commanders of the Army of the Catholiques in that Kingdome.</p>
+            <p>Preſented to the Right Honourable, the Lords and Com<g ref="char:EOLhyphen"/>mons now aſſembled in the High Court of Parliament in <hi>England.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T. F.</hi> for <hi>John Thomas.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156498:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:156498:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>To the Right Honorable, the Lords and Commons now Aſſembled in the high Court of Parliament in <hi>ENGLAND.</hi>
+            </head>
+            <head type="sub">The humble Petition of Sir <hi>Philomy Oneale</hi> Knight, Generall of <hi>Jreland,</hi> and the Lords and Nobility Commanders of the Army of Catholiques in Jreland.</head>
+            <opener>Declareth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>O this Honourable and high Court, that there hath bin ſeve<g ref="char:EOLhyphen"/>tall Petitions former<g ref="char:EOLhyphen"/>ly delivered to the Lords of the Coun<g ref="char:EOLhyphen"/>cell of this King<g ref="char:EOLhyphen"/>dome, wherein our grievances and oppreſſions have bin at large ſet forth and our great deſires expreſſed by the ſame for the reliefe of our ſufferings and
+<pb n="2" facs="tcp:156498:3"/>
+               <!-- PDF PAGE 45 -->our humble Demands for tolleration in our Religion and Liberties in the exerciſe there<g ref="char:EOLhyphen"/>of and the confirmation of our Ancient Lawes and Priviledges, by former Acts of Parliament, confirmed and granted to us in the Raignes of former Princes of <hi>England,</hi> but the ſame our Petitions have bin rejected and no favour ſhewed to us, but all ſeverity that poſſible could in execution of the Lawes of latter times made againſt thoſe of the Catholique Religion, which enforced our taking up Armes for the defence of the ſame. There hath likewiſe been humble <hi>Remonſtrances</hi> and <hi>De<g ref="char:EOLhyphen"/>clarations</hi> aſwell preſented to your Lordſhips as publiſhed publiquely in this Kingdome, but the ſame hath alſo bin diſregarded and re<g ref="char:EOLhyphen"/>jected, not ſomuch as obtaining any Anſwer thereto, as may any way gaine us hope of our future injoyment of our Religion, Lawes, and Liberties, by which being brought to deſpaire of any redreſſe of our grievances, and many oppreſſions by which we have bin over burthened withall hitherto, yet notwith<g ref="char:EOLhyphen"/>ſtanding our Requeſts could not be hearkned unto, but in both Kingdomes by both Coun<g ref="char:EOLhyphen"/>cels
+<pb n="3" facs="tcp:156498:3"/>
+               <!-- PDF PAGE 45 -->repulſed, that we might cleere our ſelves of obſtinate refuſall to uſe and try all lawfull and dutifull meanes that may be to the King and his Parliament, for the ſatisfying our juſt deſires to the vttermoſt, We doe yet againe in the behalfe of our ſelves, and all of the Ro<g ref="char:EOLhyphen"/>man Catholique Religion, to preſent our humble Declaration and Petition to your Lordſhips and the Houſe of Commons now aſſembled in Parliament, In which wee de<g ref="char:EOLhyphen"/>clare.</p>
+            <p n="1">1. <hi>That whereas they have ſince their taking vp Armes bin by divers falſe Papers and Pam<g ref="char:EOLhyphen"/>phlets declared to have vſed inhumane and ſavage Cruelties, and most bloody Maſſacres againſt the perſons whom they have overcome in skirmiſhes, which have oppoſed and endevoured to deſtroy not onely our Religion, but Lives and fortunes, which by the Lawes of God, of Nature and reaſon, wee are bound to Maintaine and vphold, by which wee have bin made infamour to all men, even in for<g ref="char:EOLhyphen"/>raigne Nations, for which wee are much grieved; Wee therefore to cleere our ſelves of this Scandall and Defamation, doe ſay and protest, that ſince our taking vp Armes wee have not vſed any Cru<g ref="char:EOLhyphen"/>elty
+<pb n="4" facs="tcp:156498:4"/>
+                  <!-- PDF PAGE 46 -->to the adverſe party, otherwiſe then have happened to fall by the Sword in Battaile, of which wee have taſted, or if wee have taken Priſoners we have preſerved and kept them with reſpect, as is in Warre vſed, till wee have ſeene the vſage of our men taken by the other part, and even as they have been dealt withall ſo have wee, which wee conceive to be but just and Congruent to the law of Armes; But for diſmembring, diſ-joynting, rip<g ref="char:EOLhyphen"/>ping vp Women with Child, and ſleying of Jn<g ref="char:EOLhyphen"/>fants, wee are innocent concerning the ſame as to our ſelves, and if any of the ruder ſort of Soul<g ref="char:EOLhyphen"/>diers have beene guilty of the ſame, when we were acquainted therewith we ſeverely puniſhed them, as for Example, one</hi> Trahon <hi>for Raviſhing a Wo<g ref="char:EOLhyphen"/>man with Child, and after ripping her vp, was ſentenſed to be hanged in Chaines for his vile fact, which was accordingly performed, and others have beene puniſhed for the like offences.</hi>
+            </p>
+            <p n="2">2. <hi>That by Order from the Parliament all Declarations, Papers, Writings, or Pamphlets, whereby wee are called Rebells, and Traytors, to our King and Country, and Scandalyzd, diſgraced and malitiouſly abuſed, may be reſtrained and cal<g ref="char:EOLhyphen"/>led in.</hi>
+            </p>
+            <pb n="5" facs="tcp:156498:4"/>
+            <!-- PDF PAGE 46 -->
+            <p n="3">3. <hi>That the Paliament would be pleaſed to conceive that our deſires are not to withdraw our ſelves from the ſubjection of our Lawfull King or obedience to any Lawes by his Majeſty and Parlia<g ref="char:EOLhyphen"/>ment, made for good Government, that deſtroyes not our Religion, Lawes and Liberties, for the ex<g ref="char:EOLhyphen"/>erciſing of the ſame according to the Ordinances of the Roman Catholique Church, but endeavour to vindicate the ſame to the loſſe of our Lives and Fortunes.</hi>
+            </p>
+            <p n="4">4. <hi>That wee are ready and willing io ſubmit our ſelves to his Majeſty, upon any lawfull, ho<g ref="char:EOLhyphen"/>norable, and reaſonable Conditions, but no condi<g ref="char:EOLhyphen"/>tions being propounded by his Parliament, that may be any way ſafe for us to yeeld unto, and per<g ref="char:EOLhyphen"/>ceiving the diſtractions and diviſions betweene the King and his Parliament whereby they Con<g ref="char:EOLhyphen"/>curre not ſo well together as is deſired, we are vn<g ref="char:EOLhyphen"/>reſolved what to doe in any way of ſubmiſſion till there be a Concurrence and agreement between King and people, and in the meane time wee muſt be in<g ref="char:EOLhyphen"/>forced to doe what we can to preſerve our ſelves and Eſtates.</hi>
+            </p>
+            <p n="5">5. <hi>And laſtly, that the Parliament would be pleaſed to admit and appoint a meeting betweene
+<pb n="6" facs="tcp:156498:5"/>
+                  <!-- PDF PAGE 47 -->the Lords and Nobility of our Army and the Lords Commanders in the Engliſh Army, whereas con<g ref="char:EOLhyphen"/>ditions of Truce and Ceſſation of Armes betweene both may be offered and Concluded, for a certaine time, which ſhall be thought Convenient to ſetle the preſent and particular diviſions, betweene the King and his Parliament; And in the meane time to conſider of Articles and prapoſitions where<g ref="char:EOLhyphen"/>by a finall and Perpetuall Pacification may be made and Confirmed by the States of both King<g ref="char:EOLhyphen"/>domes.</hi>
+            </p>
+            <p>Theſe our deſires and humble requeſts, wee pray may be taken into the Conſideration of the high Court of Parliament with all Expediti<g ref="char:EOLhyphen"/>on and an Anſwer of the ſame returned, by which we may know what to truſt to.</p>
+            <closer>
+               <signed>And we ſhall Pray, &amp;c.
+<list>
+                     <item>
+                        <hi>Oneale.</hi>
+                     </item>
+                     <item>
+                        <hi>Oſmond.</hi>
+                     </item>
+                     <item>
+                        <hi>Antrim.</hi>
+                     </item>
+                     <item>
+                        <hi>Montgarret.</hi>
+                     </item>
+                     <item>
+                        <hi>Nettersfield.</hi>
+                     </item>
+                     <item>
+                        <hi>Dilom. &amp;c.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>Averred by <hi>Thomus Etherington</hi> Clerke.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb n="6" facs="tcp:156498:6"/>
+            <!-- PDF PAGE 48 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
